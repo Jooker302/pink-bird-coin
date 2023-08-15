@@ -137,7 +137,7 @@ export default function Home() {
       <div className="bg-[#FF66B6] flex justify-between p-4 font-semibold">
         <p className="text-white m-2">Listed On BNB Chain</p>
         <div className="flex justify-between">
-        {/* <a className="m-2" href="https://twitter.com/Oppenheime_op?s=09"><FontAwesomeIcon icon={faXTwitter} size="lg" style={{ color: '#ffffff', width: '24px', height: '24px' }} /></a> */}
+        <a className="m-2" href="https://t.me/pinkbird"><FontAwesomeIcon icon={faXTwitter} size="lg" style={{ color: '#ffffff', width: '24px', height: '24px' }} /></a>
         <a className="m-2" href="https://t.me/pinkbird"><FontAwesomeIcon icon={faTelegram} size="lg" style={{ color: '#ffffff', width: '24px', height: '24px' }} /></a>
 
         </div>
